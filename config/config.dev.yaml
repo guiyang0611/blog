@@ -1,0 +1,5 @@
+Server:
+  Port: ":8080"
+database:
+  dsn: "root:Gy08243344?@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local"
+SecretKey: "12345678"

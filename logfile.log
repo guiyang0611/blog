@@ -1,0 +1,178 @@
+{"level":"info","ts":1752766703.9342687,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767106.3045998,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752767106.3131208,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752767106.3743565,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767552.065344,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752767552.0883195,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752767552.2133605,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767601.6928055,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752767601.7030854,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752767601.78134,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767610.2923417,"caller":"comments/comments.go:32","msg":"查询参数为","postJson:":"{\"ID\":0,\"CreatedAt\":\"0001-01-01T00:00:00Z\",\"UpdatedAt\":\"0001-01-01T00:00:00Z\",\"DeletedAt\":null,\"Content\":\"\",\"PostID\":1,\"UserID\":0}"}
+{"level":"info","ts":1752767793.9800637,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752767794.0096524,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752767794.2035463,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767809.7486863,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752767809.7546737,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752767809.8272002,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752767813.7404065,"caller":"comments/comments.go:30","msg":"查询参数为","commentDto:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"Content":"","PostID":1,"UserID":0}}
+{"level":"info","ts":1752768617.2355015,"caller":"config/config.go:47","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752768617.2491844,"caller":"config/config.go:67","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752768617.2981064,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752769113.301877,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752769113.3105376,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752769113.3593569,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752769560.036185,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752769560.0718472,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752769560.2044423,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752769807.1630695,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752769807.170321,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752769807.2057984,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"warn","ts":1752769846.094474,"caller":"user/user.go:33","msg":"注册失败：用户名已存在","username":"张三"}
+{"level":"warn","ts":1752769847.6855786,"caller":"user/user.go:33","msg":"注册失败：用户名已存在","username":"张三"}
+{"level":"warn","ts":1752769848.4645667,"caller":"user/user.go:33","msg":"注册失败：用户名已存在","username":"张三"}
+{"level":"warn","ts":1752769849.116426,"caller":"user/user.go:33","msg":"注册失败：用户名已存在","username":"张三"}
+{"level":"warn","ts":1752769850.7863305,"caller":"user/user.go:33","msg":"注册失败：用户名已存在","username":"张三"}
+{"level":"warn","ts":1752769856.645315,"caller":"user/user.go:26","msg":"注册失败：密码过短","username":"张三1"}
+{"level":"info","ts":1752769873.3299148,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752769873.336362,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752769873.389816,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752769976.9846132,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752769976.9906604,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752769977.0303037,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752769989.957672,"caller":"user/user.go:24","msg":"注册参数为","userInput:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"username":"张三1","password":"12345","phone":"18255159382","address":"","status":0}}
+{"level":"warn","ts":1752769989.957672,"caller":"user/user.go:30","msg":"注册失败：密码过短","username":"张三1"}
+{"level":"info","ts":1752769995.018815,"caller":"user/user.go:24","msg":"注册参数为","userInput:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"username":"","password":"12345","phone":"18255159382","address":"","status":0}}
+{"level":"warn","ts":1752769995.018815,"caller":"user/user.go:30","msg":"注册失败：密码过短","username":""}
+{"level":"info","ts":1752770015.4677038,"caller":"user/user.go:24","msg":"注册参数为","userInput:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"username":"李四","password":"123456","phone":"18255159382","address":"","status":0}}
+{"level":"info","ts":1752770124.9227095,"caller":"user/user.go:24","msg":"注册参数为","userInput:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"username":"李四","password":"123456","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752770482.9077415,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752770482.9198997,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752770482.975595,"caller":"blog/main.go:31","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752770627.4167902,"caller":"user/user.go:90","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752773576.2685518,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752773576.300525,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752773576.3581936,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"error","ts":1752773591.618578,"caller":"user/user.go:81","msg":"登录失败：生成Token失败","error":"key is of invalid type","stacktrace":"blog/routers/user.Login\n\tE:/workspace/go/blog/routers/user/user.go:81\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/work/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/work/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1752773666.9693105,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752773666.9833322,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752773667.038882,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"error","ts":1752773682.610478,"caller":"user/user.go:81","msg":"登录失败：生成Token失败","error":"key is of invalid type","stacktrace":"blog/routers/user.Login\n\tE:/workspace/go/blog/routers/user/user.go:81\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tD:/work/Go/pkg/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/work/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/work/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1752773778.773461,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752773778.7849562,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752773778.8358488,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752773783.0571628,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"warn","ts":1752774021.7405057,"caller":"auth/auth.go:26","msg":"Token 格式错误"}
+{"level":"info","ts":1752774038.3701944,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752774038.3835204,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752774038.4326293,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"warn","ts":1752774051.38773,"caller":"auth/auth.go:26","msg":"Token 格式错误"}
+{"level":"warn","ts":1752774244.2065136,"caller":"auth/auth.go:26","msg":"Token 格式错误"}
+{"level":"info","ts":1752774269.8266306,"caller":"comments/comments.go:28","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752774269.827754,"caller":"comments/comments.go:33","msg":"查询参数为","commentDto:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"Content":"","PostID":1,"UserID":0}}
+{"level":"warn","ts":1752774335.256373,"caller":"auth/auth.go:39","msg":"Token 无效","error":"signature is invalid"}
+{"level":"info","ts":1752774339.7055178,"caller":"comments/comments.go:28","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752774339.7055178,"caller":"comments/comments.go:33","msg":"查询参数为","commentDto:":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"Content":"","PostID":1,"UserID":0}}
+{"level":"info","ts":1752775516.0275989,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752775516.0425866,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752775516.0957422,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752775528.4003303,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752775801.5413213,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752775842.785911,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752775885.9912224,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776000.2674077,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752776000.2738996,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752776000.314918,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752776009.1916153,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776102.3076744,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776145.0494783,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776243.631583,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752776243.636987,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752776243.6690931,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752776247.281949,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776537.3385227,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752776537.3448493,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752776537.3946962,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752776651.777824,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752776651.785831,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752776651.8148496,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752776660.1701844,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776675.4793844,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776704.721498,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752776717.181649,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776756.3985872,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752776778.3430727,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776786.1101084,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776831.4582918,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752776903.9012623,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752776903.9061038,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752776903.9385724,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777047.3228958,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752777047.328022,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752777047.358461,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777079.098826,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752777079.1033916,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752777079.134315,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777105.3212755,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752777115.1281822,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752777174.470045,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752777174.4764502,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752777174.507649,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777227.3600707,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1752777240.7456965,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752777273.987786,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752777301.9365852,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752777577.1979287,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752777577.2041106,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752777577.2399523,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777583.5732577,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752777965.2612102,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752777965.2671304,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752777965.2994897,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1752777992.8104913,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752778017.3987303,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752778029.4036086,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1752778096.409226,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1752778096.4158852,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1752778096.457677,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"warn","ts":1752778098.5440187,"caller":"auth/auth.go:19","msg":"缺少 Token"}
+{"level":"info","ts":1753113707.6477695,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753113707.711739,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753113707.8172424,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1753113768.65226,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753113768.673363,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753113858.1467013,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753113858.161227,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114047.6277215,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114047.642978,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114047.6996891,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1753114076.1958468,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114076.2079742,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114106.5588431,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114106.5754547,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114106.6149237,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1753114153.3932211,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114153.4041255,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114153.4493964,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"warn","ts":1753114182.529277,"caller":"auth/auth.go:19","msg":"缺少Token"}
+{"level":"warn","ts":1753114214.9047546,"caller":"auth/auth.go:39","msg":"Token无效","error":"token is expired by 70h4m46s"}
+{"level":"warn","ts":1753114216.415506,"caller":"auth/auth.go:39","msg":"Token无效","error":"token is expired by 70h4m48s"}
+{"level":"warn","ts":1753114220.260919,"caller":"auth/auth.go:19","msg":"缺少Token"}
+{"level":"info","ts":1753114322.7189007,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114322.7326968,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114322.7805793,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1753114330.13323,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"warn","ts":1753114333.8491156,"caller":"auth/auth.go:39","msg":"Token无效","error":"token is expired by 70h6m45s"}
+{"level":"info","ts":1753114340.0773706,"caller":"user/user.go:85","msg":"登录成功","username":"李四"}
+{"level":"info","ts":1753114349.9844272,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114356.6964767,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114360.528553,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114366.9609287,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114402.4446044,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114423.3693173,"caller":"posts/posts.go:48","msg":"当前登录用户信息","currUser:":{"ID":3,"CreatedAt":"2025-07-18T00:35:25.002+08:00","UpdatedAt":"2025-07-18T00:35:25.002+08:00","DeletedAt":null,"username":"李四","password":"$2a$10$byMWRWHson5PDEYjbskmLexMIQHWww71IBbeFD.fY7J3UkxMRc3tS","phone":"18255159381","address":"","status":0}}
+{"level":"info","ts":1753114589.961833,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114589.970261,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114590.0290208,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
+{"level":"info","ts":1753114834.8600535,"caller":"config/config.go:48","msg":"开始初始化数据库连接....."}
+{"level":"info","ts":1753114834.8665195,"caller":"config/config.go:68","msg":"✅ Successfully connected to database!"}
+{"level":"info","ts":1753114834.901745,"caller":"blog/main.go:32","msg":"服务启动","port":":8080"}
